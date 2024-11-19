@@ -2,11 +2,14 @@
 Praktikum Mobile Ionic Vue Firebase 
 
 
-![Halaman Login](screenshots/login.png)
+![Halaman Login](login.jpg)
+Berikut tampilan halaman login sign with google
 
-![Halaman Home](screenshots/home.png)
+![Halaman Home](home.jpg)
+Berikut tampilan halaman home
 
-![Halaman Profile](screenshots/profile.png)
+![Halaman Profile](profile.jpg)
+Berikut halaman profile yang berisi nama serta email
 
 Penjelasan terkait cara dari mulai autentikasi login, hingga aplikasi mendapatkan username dan profil kita dari akun google : 
 
