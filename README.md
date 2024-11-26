@@ -1,12 +1,23 @@
 # SOLANI_H1D022033_IonicVueFirebase-
 Praktikum Mobile Ionic Vue Firebase 
 
-
+Halaman Login
 ![Halaman Login](login.jpg)
 Berikut tampilan halaman login sign with google
 
+Halaman Home
 ![Halaman Home](home.jpg)
-Berikut tampilan halaman home
+Berikut tampilan halaman home yang menampilkan daftar data yang berhasil dimuat dari database
+
+Halaman Tambah Data
+![Halaman Tambah](add.jpg)
+Berikut tampilan halaman  proses membuat data baru di web tersebut. Formulir input digunakan untuk menambahkan data, dan tombol "ADD TODO" akan menyimpan data ke database.
+
+![Halaman Home Completed](home-com.jpg)
+Berikut tampilan halaman home completed
+
+![Halaman Edit](edit.jpg)
+Berikut tampilan halaman yang menunjukkan proses mengubah data yang ada. Formulir edit ditampilkan dengan data lama yang diisi secara otomatis, dan pengguna dapat memperbaruinya.
 
 ![Halaman Profile](profile.jpg)
 Berikut halaman profile yang berisi nama serta email
