@@ -6,7 +6,7 @@ Halaman Login
 Berikut tampilan halaman login sign with google
 
 Halaman Home
-![Halaman Home](home.jpg)
+![Halaman Home](home-completed.jpg)
 Berikut tampilan halaman home yang menampilkan daftar data yang berhasil dimuat dari database
 
 Halaman Tambah Data
